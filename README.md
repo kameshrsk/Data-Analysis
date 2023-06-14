@@ -36,9 +36,6 @@ To explore each project locally, follow these steps:
 
 Please note that some projects may require specific software or dependencies. Refer to the individual project's README for more information.
 
-## License
-
-This portfolio is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out if you have any questions or suggestions!
 
