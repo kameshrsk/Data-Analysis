@@ -10,10 +10,11 @@ The analysis phase involved creating detailed reports and visualizations using P
 
 Additionally, I developed interactive tooltip pages that display player information, including images, names, countries, roles, and batting or bowling styles. These tooltips provide further context when hovering over the scatter plot charts.
 ## Screenshots
-![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/e0f8891f-361c-4627-bd86-a49870ee519b)
-![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/f802a5b8-d393-4f2a-b898-38dd07311bc9)
-![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/ee32b94c-3ea5-46c7-bd3b-a11b64276912)
-![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/447fd39e-eac3-46fe-b4d3-d0e16a8293ba)
+![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/0dca5e3f-7a89-4eb2-afdf-a934a0cc3216)
+![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/b1ca556c-4ddd-4d80-b146-0d7e07dd374f)
+![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/82e1f1e8-2e13-447e-b692-111dfeb4c7c3)
+![image](https://github.com/kameshrsk/Data-Analysis/assets/56502839/8f432708-3040-4199-b8e1-05c432d16a65)
+
 
 ## Installation
 
