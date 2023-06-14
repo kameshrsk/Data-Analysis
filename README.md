@@ -8,7 +8,7 @@ This repository showcases my data analysis projects on various datasets, includi
 
 The T20 World Cup Data Analysis Project aimed to select the best 11 players for a team based on recent T20 World Cup data. The project involved data gathering through web scraping, data cleaning using Power Query, and creating reports and visualizations using Power BI. Detailed analyses were conducted on openers, middle-order batsmen, and bowlers, with performance metrics like batting average, strike rate, and economy rate considered.
 
-For more details on this project, please visit the [T20 World Cup Data Analysis Project](./t20-world-cup-analysis).
+For more details on this project, please visit the [T20 World Cup Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/T20-Data-Analysis).
 
 ## F1 2022 Data Analysis Project
 
@@ -16,7 +16,7 @@ For more details on this project, please visit the [T20 World Cup Data Analysis 
 
 The F1 2022 Data Analysis Project explored the performance of teams and drivers in the Formula 1 2022 season. The project involved analyzing race results, driver standings, and team performance to gain insights into their performances. The analysis was presented in a single-page report, showcasing the top teams and drivers, their points, podium finishes, and rankings.
 
-For more details on this project, please visit the [F1 2022 Data Analysis Project](./f1-2022-analysis).
+For more details on this project, please visit the [F1 2022 Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/F1-Data-Analysis).
 
 ## Spotify Top 100 Songs Data Analysis Project
 
@@ -24,7 +24,7 @@ For more details on this project, please visit the [F1 2022 Data Analysis Projec
 
 The Spotify Top 100 Songs Data Analysis Project delved into the analysis of the popular songs and artists featured in the Spotify Top 100 Songs dataset. The project involved exploring the rankings of artists and their song performance based on the number of plays. The analysis was presented in a single-page report, highlighting the top-ranking artists and their most-played songs.
 
-For more details on this project, please visit the [Spotify Top 100 Songs Data Analysis Project](./spotify-top-100-analysis).
+For more details on this project, please visit the [Spotify Top 100 Songs Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/Spotify-Data-analysis).
 
 ## Installation and Usage
 
