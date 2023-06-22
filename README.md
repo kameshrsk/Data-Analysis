@@ -10,7 +10,7 @@ The T20 World Cup Data Analysis Project aimed to select the best 11 players for 
 
 For more details on this project, please visit the [T20 World Cup Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/T20-Data-Analysis).
 
-## Data Analysis Portfolio
+## Sales Insight
 
 ### Summary
 
