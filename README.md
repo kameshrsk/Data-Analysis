@@ -10,6 +10,22 @@ The T20 World Cup Data Analysis Project aimed to select the best 11 players for 
 
 For more details on this project, please visit the [T20 World Cup Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/T20-Data-Analysis).
 
+## Data Analysis Portfolio
+
+### Summary
+
+One of the key projects in this portfolio is the Sales Insight Project. This project centers around analyzing sales data to provide valuable insights for business decision-making. The analysis is performed using a Power BI report page, which offers a comprehensive view of the sales performance.
+
+The Sales Insight Project includes the following key visualizations:
+
+- Total Revenue: Provides an overview of the overall revenue generated.
+- Sales Quantity: Displays the total quantity of products sold.
+- Top Customers by Revenue (Bar Chart): Identifies the customers who have contributed the most revenue.
+- Top Customers by Frequent Orders (Bar Chart): Highlights the customers with the highest number of frequent orders.
+- Sales Trends (Line Chart): Depicts the revenue trend over time, with months on the x-axis and revenue on the y-axis. It also includes a secondary y-axis showing the count of orders per month.
+
+For more details on this project, please visit the [Sales Insight](https://github.com/kameshrsk/Data-Analysis/tree/main/Sales_Insight).
+
 ## F1 2022 Data Analysis Project
 
 ### Summary
